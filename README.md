@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Abeed 👋
+Interested in Java, Embedded Systems and Full stack development.
+
 
 <!--
 **arefin-abeed-216485435/arefin-abeed-216485435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
